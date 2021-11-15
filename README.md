@@ -1,2 +1,2 @@
 # nextjs-blog
-播客
+博客
